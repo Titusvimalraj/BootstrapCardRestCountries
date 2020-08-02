@@ -1,6 +1,7 @@
 loadingParents = new Promise((resolve,reject)=>{
     let parentElements = `    <main>
     <section>
+        <h1>Rest Countries Bootstrap Card</h1>
         <div class="container-fluid" id="country-data">
 
         </div>
