@@ -28,7 +28,7 @@ loadCountries = new Promise((resolve,reject)=>{
             
             divRow.setAttribute('class', 'row');
             let divCol = document.createElement('div');
-            divCol.setAttribute('class', 'col col-sm-12 col-md-4 col-lg-3 col-xl-3 mt-3');
+            divCol.setAttribute('class', 'col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 mt-3');
             tags = `
                 <div class="card card-custom-css">
                     <div class="card-header">
